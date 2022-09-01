@@ -1,0 +1,15 @@
+E:\GetAcademy\Modul 3\PPUke4Marija\bin\Debug\net6.0\PPUke4Marija.exe
+E:\GetAcademy\Modul 3\PPUke4Marija\bin\Debug\net6.0\PPUke4Marija.deps.json
+E:\GetAcademy\Modul 3\PPUke4Marija\bin\Debug\net6.0\PPUke4Marija.runtimeconfig.json
+E:\GetAcademy\Modul 3\PPUke4Marija\bin\Debug\net6.0\PPUke4Marija.dll
+E:\GetAcademy\Modul 3\PPUke4Marija\bin\Debug\net6.0\PPUke4Marija.pdb
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.csproj.AssemblyReference.cache
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.GeneratedMSBuildEditorConfig.editorconfig
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.AssemblyInfoInputs.cache
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.AssemblyInfo.cs
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.csproj.CoreCompileInputs.cache
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.dll
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\refint\PPUke4Marija.dll
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.pdb
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\PPUke4Marija.genruntimeconfig.cache
+E:\GetAcademy\Modul 3\PPUke4Marija\obj\Debug\net6.0\ref\PPUke4Marija.dll
